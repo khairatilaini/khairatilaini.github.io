@@ -1,7 +1,0 @@
-url: 'https://khairatilaini.github.io'
-
-plugins:
- - jekyll-feed
- - jekyll-sitemap
- - jekyll-seo-tag
-
